@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name": "ABISHEK LAMSAL",
+    "occupation": "Senior Software Developer",
+    "description": "Married man",
+    "image": "profilepic.png",
+    "bio": "Hi there! I a ABISHEK Lamsal married with sita lamsal kunwar karki",
+    "contactmessage": "Get in touch with me...",
+    "email": "lamsal.av@gmail.com",
+    "phone": "+977 98XXXXXX",
+    "address": {
+      "street": "pepsicola townplanning",
+      "city": "Kathmandu, Nepal",
+      "state": "province 1",
+      "zip": "44600"
+    },
+    "website": "https://www.youtube.com",
+    "resumedownload": "https://google.com",
+    "social": [{
+        "name": "facebook",
+        "url": "https://www.facebook.com/rude.avi.5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/abhie91",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abhiseklamsal/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "education": [{
+        "school": "New Little start Eng school",
+        "degree": "Secondary education",
+        "graduated": "2008",
+        "description": "_____some description if you want _______"
+      },
+      {
+        "school": "JEC college",
+        "degree": "Heigher secondary education",
+        "graduated": "2011",
+        "description": "_________some description if you want____________"
+      },
+      {
+        "school": "Amrit Science Campus",
+        "degree": "Bachelors",
+        "graduated": "2016",
+        "description": "________some description if you want_________"
+      }
+    ],
+    "work": [{
+      "company": "XXXXXXXX",
+      "title": "XXXXXXXXXXXXX",
+      "years": "May 2019 - Present",
+      "description": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    }],
+    "skillmessage": "My skill Proficiency",
+    "skills": [{
+        "name": "Android Development",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      },
+      {
+        "name": "Cloud Architect",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+      "title": "some projects",
+      "category": "Mobile",
+      "image": "hamrofootball.png",
+      "url": "https://google.com"
+    }]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "Abhisek is absolutely excellent, his depth of knowledge & his doubt clearing ability really meant a lot to me..",
+        "user": "Nihang Lama - Designer at Web Design Nepal"
+      },
+      {
+        "text": "Developing with Abhisek has always been fun and AWESOME",
+        "user": "Rahul Dotel - Software engineer at Webo Digital"
+      }
+    ]
+  }
+}
