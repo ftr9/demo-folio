@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "ABISHEK LAMSAL",
-    "occupation": "Senior Software Developer",
-    "description": "Married man",
+    "name": "THANESHWOR JOSHI",
+    "occupation": "Software Developer",
+    "description": "loves sport",
     "image": "profilepic.png",
-    "bio": "Hi there! I a ABISHEK Lamsal married with sita lamsal kunwar karki",
+    "bio": "Hi there! I a thaneshowr joshi computer science student",
     "contactmessage": "Get in touch with me...",
-    "email": "lamsal.av@gmail.com",
+    "email": "test@gmail.com",
     "phone": "+977 98XXXXXX",
     "address": {
       "street": "pepsicola townplanning",
@@ -88,11 +88,11 @@
   },
   "testimonials": {
     "testimonials": [{
-        "text": "Abhisek is absolutely excellent, his depth of knowledge & his doubt clearing ability really meant a lot to me..",
+        "text": "Thaneshor is absolutely excellent, his depth of knowledge & his doubt clearing ability really meant a lot to me..",
         "user": "Nihang Lama - Designer at Web Design Nepal"
       },
       {
-        "text": "Developing with Abhisek has always been fun and AWESOME",
+        "text": "Developing with Thaneshowr has always been fun and AWESOME",
         "user": "Rahul Dotel - Software engineer at Webo Digital"
       }
     ]
